@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jnthngdbt (Jonathan Godbout)
-- 👀 I’m interested in 3D processing development (AI, AR, VR), data analysis, generative music
+- 👀 I’m interested in 3D processing (AI, AR, VR), data analysis, generative music
 
 <!---
 jnthngdbt/jnthngdbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
